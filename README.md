@@ -1,11 +1,11 @@
-Hotel_Reservation_Analysis
+# Hotel_Reservation_Analysis
 
 
 In this project, I will use SQL to answer questionsrelated to the dataset. This will help me develop my
 data analysis skills in a practical context.
 
  
-Overview:
+# Overview:
 
 
 The hotel industry relies on data to make informed decisions and provide a better guest experience. In 
@@ -14,7 +14,7 @@ booking trends and other key factors the impact the hotel’s operations. I will
 and analysis the data, as well as answer specific questions about the dataset.
 
 
-Dataset Details: 
+# Dataset Details: 
 
 The dataset includes the following columns:
 
